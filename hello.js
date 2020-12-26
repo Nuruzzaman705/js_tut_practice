@@ -1,4 +1,4 @@
-console.log('Hello world');
+console.log('Hello world')
 console.log('I love Bangladesh')
 console.log('76')
 console.log('648.78')
